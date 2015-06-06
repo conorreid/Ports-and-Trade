@@ -1,0 +1,8 @@
+Data for container port traffic (TEU: 20 foot equivalent units) comes from the World Bank
+(http://data.worldbank.org/indicator/IS.SHP.GOOD.TU/countries)
+Data for individual top ports comes from the IAPH World Ports online data
+(http://www.iaphworldports.org/Statistics.aspx)
+Data for exports of goods and services as % of GDP from the World Bank
+(http://data.worldbank.org/indicator/NE.EXP.GNFS.ZS)
+Data for imports of goods and services as % of GDP from the World Bank
+(http://data.worldbank.org/indicator/NE.IMP.GNFS.ZS)
