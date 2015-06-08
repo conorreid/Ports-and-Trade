@@ -6,3 +6,7 @@ Data for exports of goods and services as % of GDP from the World Bank
 (http://data.worldbank.org/indicator/NE.EXP.GNFS.ZS)
 Data for imports of goods and services as % of GDP from the World Bank
 (http://data.worldbank.org/indicator/NE.IMP.GNFS.ZS)
+Data for GDP per capita from the World Bank
+(http://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
+Data for Port Quality from the World Bank
+(http://data.worldbank.org/indicator/IQ.WEF.PORT.XQ)
